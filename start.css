@@ -1,0 +1,35 @@
+h1 {
+    color:rgb(0,70,42);
+    position:absolute;
+    top: 50%;
+    left: 15%;
+    font-size:300%;
+    z-index: 1;
+}
+
+h2 {
+    position: absolute;
+    top: 23%;
+    left: 15%;
+    font-size: 220%;
+    z-index: 1;
+}
+
+.button {
+    color:white;
+    position: absolute;
+    top: 77%;
+    right: 7%;
+    font-size: 160%;
+    z-index: 1;
+    text-align: center;
+}
+
+img {
+    max-width: 160%;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.4;
+}
